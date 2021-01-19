@@ -12,4 +12,4 @@ There are seven queries and seven visualizations in this analysis.
 5. Percentage of type of products sold by region (Query and Colorful Bar plot Visualizaiton)
 6. Relationship between Profit, Sales and Shipping Cost 
 7. Order Quantity vs. Shipping Mode (Query and Boxplot Visualization)
-
+---
