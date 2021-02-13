@@ -1,4 +1,4 @@
-# Office-Retailer-Analysis-Visualization
+# Office-Retailer-EDA
 
 This dataset consists of 8399 records and 23 features of superstore transactions. 
 The purpose of this analysis was to perform statistical queries and create visualization using python libraries.
